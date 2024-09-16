@@ -3,7 +3,7 @@ Uncovering Hidden Themes in Text Data Using Topic Modeling and Dependency Parsin
 
 ## Project Background:
 
-In this self-initiated project, I aim to explore and analyze a large textual dataset using advanced natural language processing (NLP) techniques. The goal is to extract meaningful topics from the dataset, understand the structure of sentences, and gain deeper insights into the underlying patterns in the text.
+In this project, I aim to explore and analyze a large textual dataset using advanced natural language processing (NLP) techniques. The goal is to extract meaningful topics from the dataset, understand the structure of sentences, and gain deeper insights into the underlying patterns in the text.
 
 As part of this initiative, I will be using topic modeling, specifically Latent Dirichlet Allocation (LDA), to identify hidden themes within the dataset. Additionally, I will implement dependency parsing to analyze the grammatical structure of sentences, providing a comprehensive linguistic view of the text.
 
